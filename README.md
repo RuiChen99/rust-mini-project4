@@ -1,5 +1,5 @@
 # mini rust project for week4
-A good starting point for a new Rust project
+My mini project for this week is Simple Calculator. I worte four basic funtions including addition, subtraction, multiplication and division with rust. Feel free to "cargo run".
 
 
 ## References
